@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=PDF Splitter
+Comment=Open the Streamlit PDF page splitter
+Exec="/home/daniyalalidana/University/3rd Semester/MVC/run_pdf_splitter.sh"
+Path=/home/daniyalalidana/University/3rd Semester/MVC
+Terminal=true
+Categories=Utility;
